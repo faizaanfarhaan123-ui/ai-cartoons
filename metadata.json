@@ -1,0 +1,6 @@
+{
+  "name": "AI CARTOONS",
+  "description": "A complete modern mobile application called “AI CARTOONS” with a colorful futuristic cartoon/AI theme.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
